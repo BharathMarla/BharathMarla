@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bharath Marla
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Specialization
+- 👀 An experienced Software Engineer
+- 🌱 Interested in Full Stack Development | Blockchain dApps
 
 - 📫 How to reach me marlabharathrgukt@gmail.com
 <!---
